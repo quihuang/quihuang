@@ -1,4 +1,4 @@
-### Hi there, my name is Frankli Quihuang 👋
+### Hi there, my name is Franklin Quihuang 👋
 
 🔭 I’m currently working on Developer software developer
 
