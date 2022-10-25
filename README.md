@@ -19,9 +19,12 @@ Actualmente trabajo como desarrollaodr Full-Stack en una empresa local, donde he
 </br>
 Y alguna más...
 
+</br>
+</br>
+
 <div align="center">
   <a href="https://github.com/quihuang">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidTorres91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quihuang&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTorres91&layout=compact&langs_count=7&theme=dracula"/>
     
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)   
