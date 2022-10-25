@@ -1,10 +1,10 @@
 ### Hi there, my name is Franklin Quihuang 👋
 
-🔭 I’m currently working on Developer software developer
+🔭 I’m currently working on Software Developer. 
 
 Soy tecnólogo en análisis y desarrollo de software desde hace 2 años.
 
-Actualmente trabajo como desarrollaodr Full-Stack en una empresa local de mi ciudad, donde he tenido la oportunidad de trabajar en el desarrollo de aplicaciones de escritorio y aplicaciones web desarrolladas con Java, estoy en constante aprendizaje y me gusta compartir lo que se con los demas.
+Actualmente trabajo como desarrollaodr Full-Stack en una empresa local, donde he tenido la oportunidad de trabajar en el desarrollo de aplicaciones de escritorio y web desarrolladas con Java, estoy en constante aprendizaje y me gusta compartir lo que se con los demas.
 
 
 ## Tecnologías:
@@ -18,6 +18,14 @@ Actualmente trabajo como desarrollaodr Full-Stack en una empresa local de mi ciu
 [![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
+
+<div align="center">
+  <a href="https://github.com/quihuang">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidTorres91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTorres91&layout=compact&langs_count=7&theme=dracula"/>
+    
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)   
+</div>
 
 ## Encuéntrame en:
 
