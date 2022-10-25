@@ -2,6 +2,11 @@
 
 🔭 I’m currently working on Developer software developer
 
+Soy tecnologo en analisis y desarrollo de software desde hace 2 años.
+
+Actualmente trabajo como desarrollaodr full-Stack, donde he tenido la oportunidad de trabajar en el desarrollo de aplicaciones de escritorio
+y aplicaciones web desarrolladas con Java, estoy en constante aprendizaje y me gusta compartir lo que se con los demas.
+
 
 ## Tecnologías:
 
