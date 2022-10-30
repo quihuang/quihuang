@@ -4,7 +4,7 @@
 
 Soy tecnólogo en análisis y desarrollo de software desde hace 2 años.
 
-Actualmente trabajo como desarrollaodr Full-Stack en una empresa local, donde he tenido la oportunidad de trabajar en el desarrollo de aplicaciones de escritorio y aplicaciones web desarrolladas con Java, estoy en constante aprendizaje y me gusta compartir lo que se con los demas.
+Actualmente trabajo como desarrollador Full-Stack en una empresa local, donde he tenido la oportunidad de trabajar en el desarrollo de aplicaciones de escritorio y aplicaciones web desarrolladas con Java, estoy en constante aprendizaje y me gusta compartir lo que se con los demas.
 
 
 ## Tecnologías:
