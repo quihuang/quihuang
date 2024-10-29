@@ -2,9 +2,10 @@
 
 🔭 I’m currently working on Software Developer. 
 
-Soy tecnólogo en análisis y desarrollo de software desde hace 2 años.
-
-Actualmente trabajo como desarrollador Full-Stack en una empresa local, donde he tenido la oportunidad de trabajar en el desarrollo de aplicaciones de escritorio y aplicaciones web desarrolladas con Java, estoy en constante aprendizaje y me gusta compartir lo que se con los demas.
+Profesional con 4 años de experiencia en desarrollo FullStack, liderazgo de proyectos y trabajo en equipo. Dominio de
+lenguajes como Java, Spring Boot, PHP, NodeJs, JavaScript, Python, C# - Razor, React, Angular, Loopback, bases de datos SQL
+y NoSQL. Diseño y desarrollo de aplicaciones de escritorio y web. Apasionado por el aprendizaje continuo, me complace
+compartir mi conocimiento con otros, creyendo firmemente que "enseñar es aprender dos veces".
 
 
 ## Tecnologías:
